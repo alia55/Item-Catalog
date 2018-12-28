@@ -24,10 +24,10 @@ Registered users will have the ability to post, edit and delete their own items.
       9) Access the application locally using http://localhost:5000
 
 ## 	Using Google Login
-    To enable Google login in the app. the following steps requierd:
+To enable Google login in the app. the following steps requierd:
 
-    1)	Go to Google Dev Console
-    2)	Sign up or Login if prompted
+ 1)	Go to Google Dev Console
+ 2)	Sign up or Login if prompted
     3)	Go to Credentials
     4)	Select Create Crendentials > OAuth Client ID
     5)	Select Web application
