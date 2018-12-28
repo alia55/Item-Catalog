@@ -1,3 +1,4 @@
+
 # Item Catalog
 This web application is a project for the Udacity FSND Course.
 
