@@ -28,18 +28,18 @@ To enable Google login in the app. the following steps requierd:
 
  1)	Go to Google Dev Console
  2)	Sign up or Login if prompted
-    3)	Go to Credentials
-    4)	Select Create Crendentials > OAuth Client ID
-    5)	Select Web application
-    6)	Enter name 'catalog'
-    7)	Authorized JavaScript origins = 'http://localhost:5000'
-    8)	Authorized redirect URIs = 'http://localhost:5000/login' && 'http://localhost:5000/gconnect'
-    9)	Select Create
-    10)	Copy the Client ID and paste it into the data-clientid in login.html
-    11)	On the Dev Console Select Download JSON
-    12)	Rename JSON file to client_secrets.json
-    13)	Place JSON file in catalog directory
-    14)	Run application using python catalogApp.py
+ 3)	Go to Credentials
+ 4)	Select Create Crendentials > OAuth Client ID
+ 5)	Select Web application
+ 6)	Enter name 'catalog'
+ 7)	Authorized JavaScript origins = 'http://localhost:5000'
+ 8)	Authorized redirect URIs = 'http://localhost:5000/login' && 'http://localhost:5000/gconnect'
+ 9)	Select Create
+ 10)	Copy the Client ID and paste it into the data-clientid in login.html
+ 11)	On the Dev Console Select Download JSON
+ 12)	Rename JSON file to client_secrets.json
+ 13)	Place JSON file in catalog directory
+ 14)	Run application using python catalogApp.py
 
 
 ## JSON Endpoints
